@@ -15,17 +15,15 @@
 </p>
 
 
-
 ## 🧠 Sobre Mim
 
-js
-const ariel = {
-  nome: "Ariel Rocha",
-  transicao: "Frontend Developer",
-  techStack: ["Node.js", "JavaScript", "SQL", "Figma"],
-  explorando: ["React", "Next.js", "Tailwind", "AI", "Visualizações de Dados"],
-  objetivo: "Construir interfaces modernas, performáticas e acessíveis."
-}
+- **Nome:** Ariel Rocha  
+- **Transição para:** Frontend Developer  
+- **Tech Stack:** React, Node.js, JavaScript, SQL, Figma  
+- **Explorando:** Next.js, Tailwind, IA, Visualizações de Dados  
+- **Objetivo:** Construir interfaces modernas, performáticas e acessíveis.
+
+
 
 🧰 Tecnologias
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
