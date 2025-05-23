@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="assets/avatar.png" alt="Ariel Avatar" width="120" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">Ariel Rocha</h1>
 <p align="center"> Transição de carreira para <strong>Frontend Developer</strong></p>
 
@@ -14,7 +9,7 @@
 
 ## 🧠 Sobre Mim
 
-- **Nome:** Ariel Rocha  
+- **Nome:** Ariel Alves Da Rocha  
 - **Transição para:** Frontend Developer  
 - **Tech Stack:**  html,css , Node.js, JavaScript, SQL, Figma  
 - **Explorando:** Next.js,React, Tailwind, IA, Visualizações de Dados  
