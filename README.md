@@ -1,13 +1,10 @@
-<img src="assets/banner.png" alt="Frontend Developer Banner" />
-<img src="assets/avatar.png" alt="Ariel Avatar" width="120" style="border-radius: 50%;" />
-
 
 <p align="center">
   <img src="assets/avatar.png" alt="Ariel Avatar" width="120" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Ariel Rocha</h1>
-<p align="center">Cursando transição de carreira para <strong>Frontend Developer</strong></p>
+<p align="center"> Transição de carreira para <strong>Frontend Developer</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/RochaAriel?style=social" />
@@ -19,10 +16,9 @@
 
 - **Nome:** Ariel Rocha  
 - **Transição para:** Frontend Developer  
-- **Tech Stack:** React, Node.js, JavaScript, SQL, Figma  
-- **Explorando:** Next.js, Tailwind, IA, Visualizações de Dados  
+- **Tech Stack:**  html,css , Node.js, JavaScript, SQL, Figma  
+- **Explorando:** Next.js,React, Tailwind, IA, Visualizações de Dados  
 - **Objetivo:** Construir interfaces modernas, performáticas e acessíveis.
-
 
 
 🧰 Tecnologias
@@ -31,5 +27,5 @@
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RochaAriel&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=dddddd&icon_color=ffffff" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=RochaAriel&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff" /> </p>
-🌎 Conecte-se comigo
-<p align="center"> <a href="https://www.linkedin.com/in/arielroch" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="mailto:seuemail@email.com"> <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/> </a> <a href="https://www.behance.net/arielroch" target="_blank"> <img src="https://img.shields.io/badge/Behance-white?style=for-the-badge&logo=behance&logoColor=black"/> </a> </p> 
+🌎 Conect with me
+<p align="center"> <a href="[https://www.linkedin.com/in/arielroch](https://www.linkedin.com/in/ariel-rocha-46819670/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="mailto:arielalveslaves.alves@gmail.com"> <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/> </a>  
