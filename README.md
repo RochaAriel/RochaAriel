@@ -13,7 +13,7 @@
 - **Transição para:** Frontend Developer  
 - **Tech Stack:**  html,css , Node.js, JavaScript, SQL, Figma  
 - **Explorando:** Next.js,React, Tailwind, IA, Visualizações de Dados  
-- **Objetivo:** Construir interfaces modernas, performáticas e acessíveis.
+- **Objetivo:** Me tornar um Dev que leva soluções para qualquer ambiente.
 
 
 🧰 Tecnologias
