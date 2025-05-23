@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Frontend Developer Banner" />
-</p>
+<img src="assets/banner.png" alt="Frontend Developer Banner" />
+<img src="assets/avatar.png" alt="Ariel Avatar" width="120" style="border-radius: 50%;" />
+
 
 <p align="center">
   <img src="assets/avatar.png" alt="Ariel Avatar" width="120" style="border-radius: 50%;" />
